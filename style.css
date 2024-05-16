@@ -1,0 +1,36 @@
+.titulo{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.secao1{
+    color: black;
+    text-align: center;
+}
+
+#div1{
+    color: black;
+    text-align: center;
+}
+
+#div2{
+    color: black;
+    text-align: center;
+    display: none;
+}
+
+#div3{
+    color: black;
+    text-align: center;
+    display: none;
+}
+#div4{
+    color: black;
+    text-align: center;
+    display: none;
+}
+
+form{
+    text-align: center;
+}
